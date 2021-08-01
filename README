@@ -1,0 +1,20 @@
+Alunos:
+	Gabriel Cardoso Zago
+
+	Mizuki Katsukawa
+			
+	Victor Lelis Soares
+
+No diretório, existe um arquivo contendo a gramática alterada
+caso queira consultar.
+
+Compilador:
+
+Análise léxica implementada.
+
+Análise sintática parcialmente implementada.
+Obs: O analisador sintático não consegue decidir com qual produção casar o type
+na produção clasBody, ou seja, não consegue escolher se o Type pertence ao
+VarDeclListOpt ou MethodDeclListOpt.
+
+Análise semântica não implementada.
